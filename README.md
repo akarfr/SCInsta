@@ -106,9 +106,6 @@ If you do not have the technical knowledge to contribute to the codebase, improv
 # Support the project
 SCInsta takes a lot of time to develop, as the Instagram app is ever-changing and difficult to keep up with. Additionally, I'm still a student which doesn't leave me much time to work on this tweak.
 
-If you'd like to support my work, you can donate to my [ko-fi page](https://ko-fi.com/socuul)!\
-There's many other ways to support this project however, by simply sharing a link to this tweak with others who would like it!
-
 Seeing people use this tweak is what keeps me motivated to keep working on it ❤️
 
 # Credits
